@@ -17,6 +17,10 @@ public class DevOne {
 	public void myAddition2() {
 		int one = 1;
 	}
+	
+	public void straightOuttaGitHub() {
+		System.out.println("I added this in GitHub, not Eclipse");
+	}
 
 
 }
