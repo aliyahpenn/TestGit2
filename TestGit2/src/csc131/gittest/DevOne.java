@@ -20,6 +20,7 @@ public class DevOne {
 	
 	public void straightOuttaGitHub() {
 		System.out.println("I added this in GitHub, not Eclipse");
+		//Note this is very bad practice.
 	}
 
 
