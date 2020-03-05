@@ -6,5 +6,9 @@ public class DevOne {
 		System.out.println("Hello Git");
 
 	}
+	
+	public void myAddition() {
+		int one = 1;
+	}
 
 }
