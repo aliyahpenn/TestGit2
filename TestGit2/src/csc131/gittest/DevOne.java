@@ -7,7 +7,7 @@ public class DevOne {
 
 	}
 	
-	public void myAddition() {
+	public void myAddition2() {
 		int one = 1;
 	}
 
